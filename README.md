@@ -1,6 +1,8 @@
 # elegant-articles
 
 # java
+ ## 系统
+   [How To Install Oracle Java 11 In Ubuntu, Linux Mint Or Debian (From PPA Repository)] https://www.linuxuprising.com/2018/10/how-to-install-oracle-java-11-in-ubuntu.html
 
  ## 并发
  - [Java并发：volatile关键字详解] https://blog.csdn.net/v123411739/article/details/79438066
