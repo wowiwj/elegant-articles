@@ -8,3 +8,7 @@
  - [Java并发：volatile关键字详解] https://blog.csdn.net/v123411739/article/details/79438066
 
  - [面试必问的CAS，你懂了吗？] https://blog.csdn.net/v123411739/article/details/79561458
+ 
+ ## 函数式编程
+ 
+ - [Java8新特性学习-函数式编程(Stream/Function/Optional/Consumer)] https://blog.csdn.net/icarusliu/article/details/79495534
