@@ -12,3 +12,7 @@
  ## 函数式编程
  
  - [Java8新特性学习-函数式编程(Stream/Function/Optional/Consumer)] https://blog.csdn.net/icarusliu/article/details/79495534
+
+## 文档
+
+- [深入理解Java函数式编程和Streams API] https://github.com/CarpenterLee/JavaLambdaInternals
