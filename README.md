@@ -1,5 +1,13 @@
 # elegant-articles
 
+# 数据库
+ ## 数据库索引及原理
+  - [https://www.cnblogs.com/tgycoder/p/5410057.html] https://www.cnblogs.com/tgycoder/p/5410057.html
+
+# 分布式
+ ## etcd
+ - [etcd：从应用场景到实现原理的全方位解读] https://blog.csdn.net/liyingke112/article/details/74974434
+
 # java
  ## 系统
  - [How To Install Oracle Java 11 In Ubuntu, Linux Mint Or Debian (From PPA Repository)] https://www.linuxuprising.com/2018/10/how-to-install-oracle-java-11-in-ubuntu.html
