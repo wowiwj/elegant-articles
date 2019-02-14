@@ -2,7 +2,7 @@
 
 # 数据库
  ## 数据库索引及原理
-  - [https://www.cnblogs.com/tgycoder/p/5410057.html] https://www.cnblogs.com/tgycoder/p/5410057.html
+  - [MySQL索引背后的数据结构及算法原理] https://www.cnblogs.com/tgycoder/p/5410057.html
 
 # 分布式
  ## etcd
