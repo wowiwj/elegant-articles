@@ -12,6 +12,7 @@
  ## 系统
  - [How To Install Oracle Java 11 In Ubuntu, Linux Mint Or Debian (From PPA Repository)] https://www.linuxuprising.com/2018/10/how-to-install-oracle-java-11-in-ubuntu.html
 
+
  ## 并发
  - [Java并发：volatile关键字详解] https://blog.csdn.net/v123411739/article/details/79438066
 
@@ -20,7 +21,10 @@
  ## 函数式编程
  
  - [Java8新特性学习-函数式编程(Stream/Function/Optional/Consumer)] https://blog.csdn.net/icarusliu/article/details/79495534
-
+# PHP
+  ## Laravel
+  - [Tap, Tap, Tap] https://medium.com/@taylorotwell/tap-tap-tap-1fc6fc1f93a6
+  
 ## 文档
 
 - [深入理解Java函数式编程和Streams API] https://github.com/CarpenterLee/JavaLambdaInternals
